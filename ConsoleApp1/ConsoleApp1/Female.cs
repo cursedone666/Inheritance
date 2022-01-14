@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp12
+namespace ConsoleApp1
 {
     abstract class Female : Human
     {
-        abstract public void giveBirth();
-        abstract public void pregnance();
+        abstract public void BeStrongAndIndepndent(string name);
+        abstract public void playSupportPosition(string hero);
     }
 }

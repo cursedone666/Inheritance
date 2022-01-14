@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp12
+namespace ConsoleApp1
 {
-    class Male
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

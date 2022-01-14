@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp12
+namespace ConsoleApp1
 {
     abstract class Human
     {
-        public abstract void Run();
-        public abstract void Talk();
+        abstract public void SwimInPool(string meters);
+        abstract public void ShootSomeOne(string target);
     }
 }
